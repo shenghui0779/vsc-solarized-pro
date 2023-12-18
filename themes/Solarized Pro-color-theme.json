@@ -41,7 +41,7 @@
 		// Editor
 		"editor.background": "#002b36",
 		"editor.foreground": "#839496",
-		"editorIndentGuide.background": "#586e7534",
+		"editorIndentGuide.background1": "#586e7534",
 		"editorWhitespace.foreground": "#586e7534",
 		"editorRuler.foreground": "#ffffff25",
 		"editor.lineHighlightBackground": "#ffffff10",
@@ -54,6 +54,12 @@
 		"editorMarkerNavigationError.background": "#d33682",
 		"editorMarkerNavigationWarning.background": "#5B7E7A",
 		"editorLink.activeForeground": "#d33682",
+		"editorInlayHint.foreground": "#cdcdcf60",
+		"editorInlayHint.background": "#00000000",
+		"editorInlayHint.typeForeground": "#cdcdcf60",
+		"editorInlayHint.typeBackground": "#00000000",
+		"editorInlayHint.parameterForeground": "#cdcdcf60",
+		"editorInlayHint.parameterBackground": "#00000000",
 		// Editor: Suggest
 		// "editorSuggestWidget.background": "",
 		// "editorSuggestWidget.border": "",
@@ -173,7 +179,7 @@
 				"meta.documentation"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#586e75"
 			}
 		},
@@ -228,7 +234,7 @@
 				"variable.parameter.function.language.special.self.python"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#cb4b16"
 			}
 		},
@@ -275,7 +281,7 @@
 			"name": "Storage modifier",
 			"scope": "storage.modifier",
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#93a1a1"
 			}
 		},
@@ -295,7 +301,7 @@
 			"name": "Inherited Class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#268bd2"
 			}
 		},
@@ -303,7 +309,7 @@
 			"name": "Attribute",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#b58900"
 			}
 		},
@@ -406,7 +412,7 @@
 			"name": "Storage Type",
 			"scope": "storage.type",
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#268bd2"
 			}
 		},
@@ -506,7 +512,7 @@
 			"name": "CSS .class",
 			"scope": "entity.other.attribute-name.class",
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#b58900"
 			}
 		},
@@ -514,7 +520,7 @@
 			"name": "CSS: #id",
 			"scope": "entity.other.attribute-name.id",
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#b58900"
 			}
 		},
@@ -527,7 +533,7 @@
 				"entity.other.attribute-name.tag.pseudo-class"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#268bd2"
 			}
 		},
@@ -553,7 +559,7 @@
 				"meta.tag.xml entity.other.attribute-name"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#b58900"
 			}
 		},
@@ -661,7 +667,7 @@
 			"name": "Tex: {var}",
 			"scope": "variable.parameter.function.latex",
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#cb4b16"
 			}
 		},
@@ -715,7 +721,7 @@
 			"name": "Tex: \\label { }",
 			"scope": "variable.parameter.definition.label.latex",
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#dc322f"
 			}
 		},
@@ -755,7 +761,7 @@
 				"storage.modifier.global.python"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#859900"
 			}
 		},
@@ -797,7 +803,7 @@
 			"name": "Storage",
 			"scope": "storage.modifier.c++",
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#859900"
 			}
 		},
