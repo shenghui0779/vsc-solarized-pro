@@ -2,7 +2,7 @@
   "name": "solarized-pro",
   "displayName": "Solarized Pro",
   "description": "A dark solarized theme based on braver-solarized. Workbench styles included.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "IIInsomnia",
   "license": "Apache-2.0",
   "engines": {
