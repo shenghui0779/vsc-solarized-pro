@@ -80,7 +80,7 @@
 		"titleBar.activeForeground": "#eee8d5",
 		"titleBar.activeBackground": "#002b36",
 		"titleBar.inactiveForeground": "#b2b2b3",
-		"titleBar.inactiveBackground": "#f6f6f6",
+		"titleBar.inactiveBackground": "#002b36",
 		// Workbench: Editors
 		"editorGroup.border": "#00212B",
 		// "editorGroup.background": "#011b23",
