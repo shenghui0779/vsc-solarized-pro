@@ -19,6 +19,6 @@ A dark solarized theme based on braver-solarized. Workbench styles included.
 ## Credits
 
 - [Solarized Color Palatte](http://ethanschoonover.com/solarized)
-- [Braver's Solarized for Sublime Text](https://github.com/braver/Solarized)
+- [Braver's Solarized](https://github.com/braver/vscode-solarized)
 
 **Enjoy 😊**
