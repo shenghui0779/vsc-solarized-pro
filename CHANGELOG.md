@@ -4,18 +4,22 @@ All notable changes to the "solarized-pro" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.3] - 2023-12-19
+## [1.0.4] 2023-12-19
+
+- Update Control & Class
+
+## [1.0.3] 2023-12-19
 
 - Fix TitleBar InactiveBackground
 
-## [1.0.2] - 2023-12-18
+## [1.0.2] 2023-12-18
 
 - Add Highlight Borders
 
-## [1.0.1] - 2023-12-18
+## [1.0.1] 2023-12-18
 
 - Add InlayHint
 
-## [1.0.0] - 2022-09-15
+## [1.0.0] 2022-09-15
 
 - Initial release
