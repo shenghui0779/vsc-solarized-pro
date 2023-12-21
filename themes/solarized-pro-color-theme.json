@@ -57,11 +57,11 @@
 		"editorMarkerNavigationWarning.background": "#5b7e7a",
 		"editorLink.activeForeground": "#d33682",
 		"editorInlayHint.foreground": "#cdcdcf60",
-		"editorInlayHint.background": "#00000000",
+		"editorInlayHint.background": "#003847",
 		"editorInlayHint.typeForeground": "#cdcdcf60",
-		"editorInlayHint.typeBackground": "#00000000",
+		"editorInlayHint.typeBackground": "#003847",
 		"editorInlayHint.parameterForeground": "#cdcdcf60",
-		"editorInlayHint.parameterBackground": "#00000000",
+		"editorInlayHint.parameterBackground": "#003847",
 		"editor.wordHighlightBorder": "#8196b54d",
 		"editor.findMatchHighlightBorder": "#8196b54d",
 		// Editor: Suggest
@@ -978,7 +978,7 @@
 			"name": "Markup Lists",
 			"scope": "markup.list",
 			"settings": {
-				"foreground": "#b58900"
+				"foreground": "#839496"
 			}
 		},
 		{
@@ -1034,7 +1034,23 @@
 				"fontStyle": "",
 				"foreground": "#268bd2"
 			}
-		}
+		},
+		{
+			"name": "Markdown List Punctuation",
+			"scope": [
+				"punctuation.definition.list.begin.markdown"
+			],
+			"settings": {
+				"foreground": "#6c71c4"
+			}
+		},
+		{
+			"name": "Markdown Underline Link/Image",
+			"scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
+			"settings": {
+				"foreground": "#859900"
+			}
+		},
 	],
 	"semanticHighlighting": false
 }
