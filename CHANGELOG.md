@@ -4,6 +4,11 @@ All notable changes to the "solarized-pro" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.6] 2023-12-26
+
+- Update Input Foreground
+- Update CSS Type Property
+
 ## [1.0.5] 2023-12-21
 
 - Update Editor InlayHint
