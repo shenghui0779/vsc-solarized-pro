@@ -12,8 +12,6 @@ A dark solarized theme based on braver-solarized. Workbench styles included.
 
 ## Screenshots
 
-#### Go
-
 ![Preview](https://raw.githubusercontent.com/shenghui0779/solarized_pro/master/screenshots/preview.png)
 
 ## Credits
