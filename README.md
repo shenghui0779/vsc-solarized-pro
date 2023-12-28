@@ -1,6 +1,6 @@
 # VSCode Solarized Pro
 
-A dark solarized theme based on braver-solarized. Workbench styles included.
+A dark solarized theme that you deserve.
 
 ## Installation
 
@@ -14,7 +14,7 @@ A dark solarized theme based on braver-solarized. Workbench styles included.
 
 ![Preview](https://raw.githubusercontent.com/shenghui0779/solarized_pro/master/screenshots/preview.png)
 
-## Credits
+## Reference
 
 - [Solarized Color Palatte](http://ethanschoonover.com/solarized)
 - [Braver's Solarized](https://github.com/braver/vscode-solarized)
