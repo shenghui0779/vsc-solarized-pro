@@ -22,12 +22,12 @@
   ],
   "icon": "icon.png",
   "bugs": {
-    "url": "https://github.com/shenghui0779/solarized_pro/issues"
+    "url": "https://github.com/shenghui0779/vsc-solarized-pro/issues"
   },
-  "homepage": "https://github.com/shenghui0779/solarized_pro",
+  "homepage": "https://github.com/shenghui0779/vsc-solarized-pro",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shenghui0779/solarized_pro"
+    "url": "https://github.com/shenghui0779/vsc-solarized-pro"
   },
   "contributes": {
     "themes": [
