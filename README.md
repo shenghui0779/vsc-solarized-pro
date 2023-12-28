@@ -1,4 +1,4 @@
-# Solarized Pro
+# VSCode Solarized Pro
 
 A dark solarized theme based on braver-solarized. Workbench styles included.
 
