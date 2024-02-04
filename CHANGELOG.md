@@ -4,6 +4,10 @@ All notable changes to the "solarized-pro" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.8] 2024-02-04
+
+- Update Markdown Color
+
 ## [1.0.7] 2024-02-04
 
 - Fixed for vscode@v1.86

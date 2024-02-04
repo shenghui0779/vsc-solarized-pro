@@ -132,8 +132,8 @@
 		// "notifications.buttonBackground": "#dc322f",
 		// "notifications.buttonForeground": "#eee8d5",
 		// Workbench: Quick Open
-		"pickerGroup.foreground": "#d33682",
-		"pickerGroup.border": "#dc322f99",
+		"pickerGroup.foreground": "#2AA19899",
+		"pickerGroup.border": "#2AA19899",
 		// Workbench: Git Decoration Colors
 		"gitDecoration.modifiedResourceForeground": "#859900",
 		"gitDecoration.deletedResourceForeground": "#dc322f",
@@ -200,6 +200,7 @@
 				"comment punctuation",
 				"comment text",
 				"constant.numeric.line-number.find-in-files",
+				"markup.quote",
 				"meta.documentation",
 				"meta.diff",
 				"meta.diff.header",
@@ -274,6 +275,7 @@
 			"scope": [
 				"entity.name.tag",
 				"entity.name.function",
+				"entity.name.section",
 				"entity.other.attribute-name.pseudo-element",
 				"entity.other.attribute-name.tag.pseudo-element",
 				"entity.other.attribute-name.pseudo-class",
@@ -294,10 +296,13 @@
 			"name": "Color: #859900",
 			"scope": [
 				"keyword",
+				"keyword.control.import",
+				"keyword.control.import.from",
+				"keyword.other.special-method",
 				"markup.inserted",
-				"markup.quote",
 				"markup.inserted.git_gutter",
-				"markup.underline.link.markdown,markup.underline.link.image.markdown",
+				"markup.underline.link.markdown",
+				"markup.underline.link.image.markdown",
 				"storage",
 				"storage.modifier",
 				"storage.type.class.python",
@@ -310,7 +315,8 @@
 				"support.type",
 				"support.class",
 				"support.function.be.latex",
-				"punctuation.definition.variable"
+				"punctuation.definition.variable",
+				"punctuation.definition.quote.begin.markdown"
 			],
 			"settings": {
 				"foreground": "#859900"
@@ -345,24 +351,7 @@
 		},
 		{
 			"name": "Color: #cb4b16",
-			"scope": [
-				"meta.import",
-				"meta.preprocessor.c.include",
-				"meta.preprocessor.macro.c",
-				"keyword.control.import",
-				"keyword.control.import.from",
-				"keyword.control.at-rule.include",
-				"keyword.control.at-rule.import",
-				"keyword.other.new",
-				"keyword.other.import",
-				"keyword.other.special-method",
-				"entity.name.section",
-				"entity.name.function.preprocessor.c",
-				"support.function.construct",
-				"support.type.exception",
-				"support.function.section.latex",
-				"variable.parameter.function.latex"
-			],
+			"scope": [],
 			"settings": {
 				"foreground": "#cb4b16"
 			}
@@ -430,10 +419,12 @@
 		{
 			"name": "Style: Bold",
 			"scope": [
-				"markup.bold",
 				"constant.character",
 				"constant.other",
-				"variable.language"
+				"variable.language",
+				"markup.bold",
+				"markup.heading",
+				"markup.heading.setext"
 			],
 			"settings": {
 				"fontStyle": "bold"
