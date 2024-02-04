@@ -4,6 +4,10 @@ All notable changes to the "solarized-pro" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.7] 2024-02-04
+
+- Fixed for vscode@v1.86
+
 ## [1.0.6] 2023-12-26
 
 - Update Input Foreground

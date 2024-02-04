@@ -1,41 +1,41 @@
 {
-  "name": "solarized-pro",
-  "displayName": "Solarized Pro",
-  "description": "A dark solarized theme based on braver-solarized. Workbench styles included.",
-  "version": "1.0.6",
-  "publisher": "IIInsomnia",
-  "license": "Apache-2.0",
-  "engines": {
-    "vscode": "^1.80.0"
-  },
-  "galleryBanner": {
-    "color": "#002B36",
-    "theme": "dark"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "solarized",
-    "theme",
-    "dark"
-  ],
-  "icon": "icon.png",
-  "bugs": {
-    "url": "https://github.com/shenghui0779/vsc-solarized-pro/issues"
-  },
-  "homepage": "https://github.com/shenghui0779/vsc-solarized-pro",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/shenghui0779/vsc-solarized-pro"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Solarized Pro",
-        "uiTheme": "vs-dark",
-        "path": "./themes/solarized-pro-color-theme.json"
-      }
-    ]
-  }
+	"name": "solarized-pro",
+	"displayName": "Solarized Pro",
+	"description": "A dark solarized theme based on braver-solarized. Workbench styles included.",
+	"version": "1.0.7",
+	"publisher": "IIInsomnia",
+	"license": "Apache-2.0",
+	"engines": {
+		"vscode": "^1.80.0"
+	},
+	"galleryBanner": {
+		"color": "#002B36",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"solarized",
+		"theme",
+		"dark"
+	],
+	"icon": "icon.png",
+	"bugs": {
+		"url": "https://github.com/shenghui0779/vsc-solarized-pro/issues"
+	},
+	"homepage": "https://github.com/shenghui0779/vsc-solarized-pro",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shenghui0779/vsc-solarized-pro"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Solarized Pro",
+				"uiTheme": "vs-dark",
+				"path": "./themes/solarized-pro-color-theme.json"
+			}
+		]
+	}
 }
