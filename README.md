@@ -2,9 +2,6 @@
 
 A dark solarized theme that you deserve.
 
-> 11111
-> 1111
-
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
