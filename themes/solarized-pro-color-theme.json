@@ -244,6 +244,7 @@
 			"scope": [
 				"constant.numeric",
 				"constant.character",
+				"constant.language",
 				"constant.other",
 				"constant.other.reference.link.markdown",
 				"entity.other.inherited-class",
@@ -257,7 +258,6 @@
 			"name": "Color: #d33682",
 			"scope": [
 				"keyword.control",
-				"constant.language",
 				"variable.language",
 				"entity.name.tag.css",
 				"entity.name.tag.scss",
